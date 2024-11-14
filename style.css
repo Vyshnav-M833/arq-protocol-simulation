@@ -5,8 +5,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background: url("computer_network_image.jpg") no-repeat center center fixed; 
+    font-family: Arial, sans-serif; 
     background-size: cover; /* Ensures the image covers the entire screen */
     padding: 20px;
 }
