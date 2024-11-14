@@ -4,16 +4,12 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: Arial, sans-serif; 
-    background-size: cover; /* Ensures the image covers the entire screen */
-    padding: 20px;
-}
+
 
 .container {
     width: 80%;
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.8); /* Light background to contrast the image */
+    background-color: rgba(33, 82, 155, 0.8); /* Light background to contrast the image */
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -71,5 +67,5 @@ footer {
 
 footer p {
     font-size: 14px;
-    color: #555;
+    color: #bdc01c;
 }
